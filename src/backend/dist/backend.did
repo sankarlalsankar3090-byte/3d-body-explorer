@@ -1,0 +1,13 @@
+type BodyPart = 
+ record {
+   descriptionEn: text;
+   descriptionHi: text;
+   id: text;
+   modelType: text;
+   nameEn: text;
+   nameHi: text;
+ };
+service : {
+  getBodyPart: (id: text) -> (opt BodyPart) query;
+  getBodyParts: () -> (vec BodyPart) query;
+}

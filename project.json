@@ -1,0 +1,21 @@
+{
+  "overview": "An interactive 3D Human Body Explorer where users can rotate, zoom, and explore 3D models of body organs (brain, heart, lungs, stomach) with bilingual descriptions in Hindi and English.",
+  "features": [
+    "Interactive 3D organ models with 360° rotation and zoom",
+    "Touch and mouse gesture support for all devices",
+    "Bilingual descriptions in Hindi (Devanagari) and English",
+    "Body part selector to switch between brain, heart, lungs, stomach",
+    "Responsive layout for mobile and desktop"
+  ],
+  "category": "education",
+  "tags": [
+    "3d",
+    "anatomy",
+    "education",
+    "bilingual",
+    "interactive",
+    "hindi",
+    "health"
+  ],
+  "last_updated": "2026-04-13T15:05:29.148Z"
+}
